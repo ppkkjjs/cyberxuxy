@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyberxuxy
+- @cyberxuxy
 
 
 <!---
