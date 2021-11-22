@@ -10,3 +10,9 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberxuxy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+![Snake animation](https://github.com/cyberxuxy/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=ELLEN2121&theme=react)](https://github.com/ELLEN2121/ELLEN2121)
