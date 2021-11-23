@@ -12,6 +12,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ![Snake animation](https://github.com/cyberxuxy/ellen2121/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=ELLEN2121&repo=cyberxuxy&theme=react)](https://github.com/cyberxuxy/cyberxuxy)
-
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=cyberxuxy&repo=cyberxuxy&theme=react)](https://github.com/cyberxuxy/cyberxuxy)
